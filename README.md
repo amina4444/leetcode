@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amina4444/leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/amina4444/leetcode/tree/master/0013-roman-to-integer) |
 ## Binary Search
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/amina4444/leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/amina4444/leetcode/tree/master/0013-roman-to-integer) |
 | [0509-fibonacci-number](https://github.com/amina4444/leetcode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -43,4 +45,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/amina4444/leetcode/tree/master/0509-fibonacci-number) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/amina4444/leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
