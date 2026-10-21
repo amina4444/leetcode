@@ -34,10 +34,12 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/amina4444/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/amina4444/leetcode/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/amina4444/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/amina4444/leetcode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/amina4444/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/amina4444/leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -46,6 +48,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/amina4444/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/amina4444/leetcode/tree/master/0509-fibonacci-number) |
 ## String
 |  |
