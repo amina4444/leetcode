@@ -54,10 +54,19 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/amina4444/leetcode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/amina4444/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/amina4444/leetcode/tree/master/0058-length-of-last-word) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amina4444/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amina4444/leetcode/tree/master/0027-remove-element) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/amina4444/leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/amina4444/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
