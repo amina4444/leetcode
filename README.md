@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/amina4444/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/amina4444/leetcode/tree/master/0069-sqrtx) |
 ## Tree
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | [0009-palindrome-number](https://github.com/amina4444/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/amina4444/leetcode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/amina4444/leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/amina4444/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/amina4444/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/amina4444/leetcode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
@@ -95,4 +97,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/amina4444/leetcode/tree/master/0067-add-binary) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/amina4444/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
