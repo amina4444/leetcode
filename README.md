@@ -10,17 +10,20 @@
 | [0027-remove-element](https://github.com/amina4444/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/amina4444/leetcode/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amina4444/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0268-missing-number](https://github.com/amina4444/leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amina4444/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/amina4444/leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/amina4444/leetcode/tree/master/0141-linked-list-cycle) |
+| [0268-missing-number](https://github.com/amina4444/leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/amina4444/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/amina4444/leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/amina4444/leetcode/tree/master/0268-missing-number) |
 ## Tree
 |  |
 | ------- |
@@ -44,6 +47,7 @@
 | [0067-add-binary](https://github.com/amina4444/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/amina4444/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/amina4444/leetcode/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/amina4444/leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/amina4444/leetcode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -95,6 +99,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/amina4444/leetcode/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/amina4444/leetcode/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -111,4 +116,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/amina4444/leetcode/tree/master/0141-linked-list-cycle) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/amina4444/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
