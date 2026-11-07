@@ -97,6 +97,7 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amina4444/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/amina4444/leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/amina4444/leetcode/tree/master/0191-number-of-1-bits) |
 ## Trie
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/amina4444/leetcode/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/amina4444/leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/amina4444/leetcode/tree/master/0268-missing-number) |
 ## Simulation
 |  |
