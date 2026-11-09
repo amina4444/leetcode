@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/amina4444/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/amina4444/leetcode/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amina4444/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0119-pascals-triangle-ii](https://github.com/amina4444/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/amina4444/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/amina4444/leetcode/tree/master/0268-missing-number) |
 | [0463-island-perimeter](https://github.com/amina4444/leetcode/tree/master/0463-island-perimeter) |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/amina4444/leetcode/tree/master/0070-climbing-stairs) |
+| [0119-pascals-triangle-ii](https://github.com/amina4444/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0509-fibonacci-number](https://github.com/amina4444/leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
