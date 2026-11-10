@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amina4444/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amina4444/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/amina4444/leetcode/tree/master/0035-search-insert-position) |
+| [0088-merge-sorted-array](https://github.com/amina4444/leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amina4444/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/amina4444/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/amina4444/leetcode/tree/master/0169-majority-element) |
@@ -84,6 +85,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amina4444/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amina4444/leetcode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/amina4444/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/amina4444/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/amina4444/leetcode/tree/master/0141-linked-list-cycle) |
 ## Stack
@@ -130,6 +132,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/amina4444/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/amina4444/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/amina4444/leetcode/tree/master/0268-missing-number) |
 ## Counting
