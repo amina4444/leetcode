@@ -25,6 +25,7 @@
 | [0141-linked-list-cycle](https://github.com/amina4444/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/amina4444/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/amina4444/leetcode/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/amina4444/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 | [0058-length-of-last-word](https://github.com/amina4444/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/amina4444/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/amina4444/leetcode/tree/master/0125-valid-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/amina4444/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Two Pointers
 |  |
 | ------- |
@@ -171,4 +173,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/amina4444/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/amina4444/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
