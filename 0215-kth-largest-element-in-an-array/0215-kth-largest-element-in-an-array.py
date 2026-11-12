@@ -1,8 +1,7 @@
-import heapq
-
 class Solution(object):
     def findKthLargest(self, nums, k):
-        return heapq.nlargest(k,nums)[-1]
+        nums.sort(reverse=True)
+        return nums[k - 1]
         """
         :type nums: List[int]
         :type k: int
