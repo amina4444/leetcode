@@ -17,6 +17,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/amina4444/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/amina4444/leetcode/tree/master/0268-missing-number) |
 | [0463-island-perimeter](https://github.com/amina4444/leetcode/tree/master/0463-island-perimeter) |
+| [1929-concatenation-of-array](https://github.com/amina4444/leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -132,6 +133,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/amina4444/leetcode/tree/master/0067-add-binary) |
+| [1929-concatenation-of-array](https://github.com/amina4444/leetcode/tree/master/1929-concatenation-of-array) |
 ## Newton's Method
 |  |
 | ------- |
